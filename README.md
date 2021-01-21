@@ -20,7 +20,7 @@ My purpose for writing this data analysis software is to determine what state or
 **Question 2**: What circumstances most commonly involved non-motorists in a fatal accident in 2016?
 
     Answer: Crossing Roadway
-![Image of First Graph](figure_2.png)
+![Image of Second Graph](figure_2.png)
 
 # Development Environment
 
