@@ -1,26 +1,26 @@
 # Overview
 
-{Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This data analysis was done to help me expand my ability to generate and answer questions for a given data set and create graphical representations of that data.
 
-{Provide a description of the data set that you are analyzing.  Include the link of where you obtained the data.}
+The data set that I am analyzing comes from the US Department of Transportation Traffic Fatality Records. It details the non-motorist (someone not in the vehicle) actions and circumstances that were occurring at the time of the fatal accident and the state in which it  in 2016.
 
+> You can access the nmprior_2016 data set at [Kaggle](https://www.kaggle.com/usdot/nhtsa-traffic-fatalities?select=nmprior_2016) or [Google Cloud](https://console.cloud.google.com/bigquery?project=database-301502&p=bigquery-public-data&d=nhtsa_traffic_fatalities&t=nmprior_2016&page=table).
 
+My purpose for writing this data analysis software is to determine what state or non-motorist actions have the most impact on the number of fatal accidents that occurred in this data set.
 
-[Kaggle Dataset Link](https://www.kaggle.com/usdot/nhtsa-traffic-fatalities?select=nmprior_2016) | [Google Cloud Dataset Link](https://console.cloud.google.com/bigquery?project=database-301502&p=bigquery-public-data&d=nhtsa_traffic_fatalities&t=nmprior_2016&page=table)
-
-{Describe your purpose for writing this software to analyze the data.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+> Here is a demo of my software: [Software Demo Video](http://youtube.link.goes.here)
 
 # Data Analysis Results
 
 **Question 1**: What state had the most fatal accidents involving non-motorists in 2016?
 
-> California
+    Answer: California
+![Image of First Graph](figure_1.png)
 
 **Question 2**: What circumstances most commonly involved non-motorists in a fatal accident in 2016?
 
-> Crossing Roadway
+    Answer: Crossing Roadway
+![Image of First Graph](figure_2.png)
 
 # Development Environment
 
