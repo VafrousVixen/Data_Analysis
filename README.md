@@ -4,13 +4,11 @@
 
 {Provide a description of the data set that you are analyzing.  Include the link of where you obtained the data.}
 
-[Cloud Dataset Link](https://console.cloud.google.com/bigquery?project=database-301502&p=bigquery-public-data&d=nhtsa_traffic_fatalities&t=nmprior_2016&page=table)
 
-[Kaggle Dataset Link](https://www.kaggle.com/usdot/nhtsa-traffic-fatalities?select=nmprior_2016)
+
+[Kaggle Dataset Link](https://www.kaggle.com/usdot/nhtsa-traffic-fatalities?select=nmprior_2016) | [Google Cloud Dataset Link](https://console.cloud.google.com/bigquery?project=database-301502&p=bigquery-public-data&d=nhtsa_traffic_fatalities&t=nmprior_2016&page=table)
 
 {Describe your purpose for writing this software to analyze the data.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
 
 [Software Demo Video](http://youtube.link.goes.here)
 
@@ -26,13 +24,13 @@
 
 # Development Environment
 
-### *General*
+### **General**
 
 * Visual Studio Code
 * Python 3.8.5 32-bit
 * Git / GitHub
 
-### *Modules*
+### **Modules**
 
 * Pandas - data structure and analysis tool
 * Matplotlib - data visualization tool
