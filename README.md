@@ -22,7 +22,7 @@ Here is a demo of my software: [Software Demo Video](https://www.youtube.com/wat
 
 **Answer**: Crossing Roadway
 
-![Image of First Graph](figure_2.png)
+![Image of Second Graph](figure_2.png)
 
 # Development Environment
 
