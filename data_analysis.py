@@ -17,10 +17,10 @@ def main():
             exit()
         elif choice == "1":
             show_accidents_by_state(df)
-            print("NOTE: This data comes from the US Department of Transportation Traffic Fatality Records nmprior_2016 dataset. Not all states will be represented.\n")
+            print("NOTE: This data comes from the US Department of Transportation Traffic Fatality Records nmprior_2016 data set. Not all states will be represented.\n")
         elif choice == "2":
             show_accidents_by_non_motorist_circumstance(df)
-            print("NOTE: This data comes from the US Department of Transportation Traffic Fatality Records nmprior_2016 dataset. Not all states will be represented.\n")
+            print("NOTE: This data comes from the US Department of Transportation Traffic Fatality Records nmprior_2016 data set. Not all states will be represented.\n")
         else:
             print("Invalid Entry")
 
